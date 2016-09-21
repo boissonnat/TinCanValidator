@@ -1,3 +1,9 @@
+NOTA
+====
+
+Ce projet est un fork de : [RusticiSoftware/TinCanValidator](https://github.com/RusticiSoftware/TinCanValidator).
+Nous le forkons ici pour en maitriser son cycle de vie et ne pas être dépendant de leur mises à jour intempestives.
+
 Install
 =======
 This software requires Node.js to be installed. This can be done using the 
